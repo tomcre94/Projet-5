@@ -12,5 +12,4 @@ $(document).ready(function () {
     showTags: true,
     tagsPosition: "top",
   });
-  // écrire le code ici : selectionner les div avec les images et définir leur src (penser à les enlever du html)
 });
