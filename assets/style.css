@@ -68,3 +68,45 @@ input[type="submit"]{background-color:#BEB45A;padding:.5em 1em}
 form{width:100%}
 .picture{width:80%}
 }
+@media (max-width: 575.9px) {
+    .gallery-items-row img {
+        width: 558px;
+        height: 558px;
+        padding: 0.5em;
+    }
+  }
+@media (min-width: 576px) {
+    .gallery-items-row img {
+        width: 270px;
+        height: 270px;
+        padding: 0.5em;
+    }
+  }
+  @media (min-width: 768px) {
+    .gallery-items-row img {
+        width: 240px;
+        height: 240px;
+        padding: 0.5em;
+    }
+  }
+  @media (min-width: 992px) {
+    .gallery-items-row img {
+        width: 320px;
+        height: 320px;
+        padding: 0.5em;
+    }
+  }
+  @media (min-width: 1200px) {
+    .gallery-items-row img {
+        width: 380px;
+        height: 380px;
+        padding: 0.5em;
+    }
+  }
+  @media (min-width: 1400px) {
+    .gallery-items-row img {
+        width: 440px;
+        height: 440px;
+        padding: 0.5em;
+    }
+  }
